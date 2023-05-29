@@ -1,3 +1,4 @@
+-----
 - 🌱 Planting some saplings ⛩️ using what has been provided 🩸 and what is made available 🌊
 - 🗡️ Carrying that sentient dagger visible in my profile image with me, but sheathed ☠️
 - 👂 Aiming to listen more than I speak 👄 and refraining from taking up residence in any vectorized poles 🧭
@@ -5,3 +6,4 @@
 -----
 #+ATTR_ORG: :width 600
 [[file:image-360x.png]]
+------
