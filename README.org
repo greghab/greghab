@@ -15,5 +15,5 @@
 
 -----
 #+ATTR_ORG: :width 600
-[[file:theWaveAndVision_300Height.png]]
+[[file:img/theWaveSailVision-250x.png]]
 ------
