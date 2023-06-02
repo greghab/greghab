@@ -15,7 +15,7 @@
 
 -----
 #+ATTR_ORG: :width 600
-[[file:img/theWaveSailVision-250x.png]]
+[[file:img/theWaveAndVision_300Height.png]]
 ------
 
 - 🎵 Mariage d'Amour - Paul de Senneville
