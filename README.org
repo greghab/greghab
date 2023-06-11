@@ -9,9 +9,10 @@
 -----
 
 #+begin_quote
-- "We think we're in the drivers seat. Sometimes it's better to be in the passenger seat." Unknown, but passed along by Ben Morss at Google.
+- "We think we're in the drivers seat. Sometimes it's better to be in the passenger seat."
 
-- "It's stressful for him to be a leader on a record, because it's his artistic vision, and all that. And what he tries to do when he's making a record, is to just pretend he's a sideman." Dan Tepfer, paraphrasing what Joe Henderson (a Jazz saxaphonists) wrote in the liner notes of one of his albums.
+- "In a way Kubrik's playing around, in a sense of the music, with what he'd done previously. Having taken like a real classy, classical music score, for his previous film, now he's saying, OK well we're going to have Beethoven, but we're also going to have the William Tell Overture played 5 times too fast. Kubrik's being playful, in the same way as when Alex visits the record store. There in the record rack, is a copy of 2001. Which is obviously a great joke. *But also he's also talking about a film director, who's given up being influenced by others. A film director, whose primary influence has become himself.*" - Alex Cox, Film Director, about A Clockwork Orange
+#+end_quote
 
 -----
 #+ATTR_ORG: :width 600
