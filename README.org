@@ -1,2 +1,2 @@
-#+ATTR_ORG: :width 600
-[[file:.images/2023-06-13_14-58-38_screenshot.png]]
+#+ATTR_ORG: :width 400
+[[file:.images/eye-400x.png]]
