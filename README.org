@@ -1,2 +1,2 @@
-#+ATTR_ORG: :width 400
-[[file:.images/eye-400x.png]]
+#+ATTR_ORG: :width 200
+[[file:.images/eye-200x.png]]
