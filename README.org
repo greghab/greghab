@@ -15,4 +15,4 @@
 #+end_quote
 
 #+ATTR_ORG: :width 200
-[[file:img/family.png]]
+[[file:img/family-noWatermark.png]]
