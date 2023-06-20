@@ -1,5 +1,5 @@
 #+ATTR_ORG: :width 200
-[[file:.images/eye-200x.png]]
+[[file:img/annas-hummingbird-wa.jpg]]
 
 #+begin_quote
 - "I allow manipulation, to find out where my enemy wants me to go, and then I use my mind to break the trap and punish the perpetrators."
