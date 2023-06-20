@@ -1,8 +1,7 @@
 #+ATTR_ORG: :width 200
 [[file:img/annas-hummingbird-wa.jpg]]
 
-#+ATTR_ORG: :width 200
-[[file:img/family.png]]
+
 
 #+begin_quote
 - "I allow manipulation, to find out where my enemy wants me to go, and then I use my mind to break the trap and punish the perpetrators."
@@ -14,3 +13,6 @@
 - "Surrender to all our desires obviously leads to impotence, disease, jealousies, lies, concealment, and everything that is the reverse of health, good humour, and frankness."
 - "Virtue—even attempted virtue—brings light; indulgence brings fog."
 #+end_quote
+
+#+ATTR_ORG: :width 200
+[[file:img/family.png]]
