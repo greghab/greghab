@@ -12,6 +12,8 @@
 - "In the first place our warped natures, the devils who tempt us, and all the contemporary propaganda for lust, combine to make us feel that the desires we are resisting are so ‘natural’, so ‘healthy’, and so reasonable, that it is almost perverse and abnormal to resist them."
 - "Surrender to all our desires obviously leads to impotence, disease, jealousies, lies, concealment, and everything that is the reverse of health, good humour, and frankness."
 - "Virtue—even attempted virtue—brings light; indulgence brings fog."
+- "The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser peopel are so full of doubts"
+- "The downfall didn't begin when Hitler marched into the Soviet Union. It didn't begin when the Japanese attacked Pearl Harbor, or on D-Day. The downfall began when Germany started putting their faith in a single man. When they elevated him to a roll he only ever used to persue his own personal glory."
 #+end_quote
 
 #+ATTR_ORG: :width 200
