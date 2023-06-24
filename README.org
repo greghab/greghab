@@ -1,7 +1,9 @@
 #+ATTR_ORG: :width 200
 [[file:img/annas-hummingbird-wa.jpg]]
+- I respect iridescent plumage.
 
 
+------
 
 #+begin_quote
 Elucidations emanate from the distant dark.
@@ -15,5 +17,9 @@ Sirens sound, minds grasp after all that fleets.
 I know where I shall head not, so I continue to walk, trusting myself to that cadence radiating, and reverberating out of my own two feet.
 #+end_quote
 
+
+-----
+
 #+ATTR_ORG: :width 200
 [[file:img/family-noWatermark.png]]
+- And people coming together wearing various patterns, never hurts.
