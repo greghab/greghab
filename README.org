@@ -17,4 +17,4 @@ Neither antagonistic nor compliant
 #+end_quote
 
 #+ATTR_ORG: :height 300
-[[file:img/phillipeDruillet_2x.png]]
+[[file:img/philippeDruillet_3_300x.png]]
