@@ -15,3 +15,6 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 #+begin_quote
 Neither antagonistic nor compliant
 #+end_quote
+
+#+ATTR_ORG: :width 600
+[[file:img/heavyMetal11.png]]
