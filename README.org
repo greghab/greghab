@@ -22,7 +22,7 @@ Neither antagonistic nor compliant
 #+end_quote
 
 #+begin_quote
-Not only have I fed off the hate and have never faltered, but it’s also made me more focused, hungrier, and less satisfied.
+"Not only have I fed off the hate and have never faltered, but it’s also made me more focused, hungrier, and less satisfied.
 There will always be those who want to see someone who’s motivated fail, because the effort of others reminds the weak
 of their lack of passion and purpose.
 There will always be those who want to feel that passion and purpose too, but it’s hard. The grind hurts sometimes.
@@ -31,7 +31,7 @@ They don’t realize that apathy is death.
 They don’t know that the approval of others doesn’t make a difference to the driven.
 Hatred only provides fuel.
 So please … I’m begging you.
-Keep the vitriol coming.
+Keep the vitriol coming."
 #+end_quote
 
 #+ATTR_ORG: :height 300
