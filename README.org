@@ -34,5 +34,14 @@ So please … I’m begging you.
 Keep the vitriol coming."
 #+end_quote
 
+#+begin_quote
+"You can CHOOSE to let it bother you...
+
+or you can CHOOSE to tell them to fuck off!"
+#+end_quote
+
+#+begin_quote
+"The greatest part about gaining confidence is the tremendous relief you feel after becoming free of people’s opinions."
+#+end_quote
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
