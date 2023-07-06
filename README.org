@@ -34,19 +34,5 @@ So please … I’m begging you.
 Keep the vitriol coming."
 #+end_quote
 
-#+begin_quote
-"You can CHOOSE to let it bother you...
-
-or you can CHOOSE to tell them to fuck off!"
-#+end_quote
-
-#+begin_quote
-"The greatest part about gaining confidence is the tremendous relief you feel after becoming free of people’s opinions."
-#+end_quote
-
-#+begin_quote
-"You feel like goals will take years and years, and in reality it happens a lot faster than you think. It’s the “work” part that gets in a lot of people’s way. They dream big, but they don’t ever do the physical work behind the goal. Life doesn’t work that way. Life rewards action. Remember my favorite saying, “Don’t talk about it, be about it?”"
-#+end_quote
-
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
