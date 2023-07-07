@@ -34,5 +34,16 @@ So please … I’m begging you.
 Keep the vitriol coming."
 #+end_quote
 
+
+#+begin_quote
+“When you’ve spent hours in a jhāna, you can call yourself a mystic....It is unforgettable. It overturns one’s conception of happiness. Even falling in love is not as enjoyable as this. It is unavoidable that one will inquire what is this bliss and where did it come from.”
+— Ajahn Brahm, Mindfulness, Bliss, and Beyond
+#+end_quote
+
+#+begin_quote
+“The jhanas may be the single most important thing on the planet right now. You may think it’s superintelligence or longevity. That’s nothing without wellbeing.”
+— Google DeepMind Strategic Advisor
+#+end_quote
+
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
