@@ -11,6 +11,7 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 #+end_quote
 
 -------------
+*Right View:*
 
 #+begin_quote
 Neither antagonistic nor compliant
@@ -49,6 +50,8 @@ Keep the vitriol coming." - Cameron Hanes, Endure
 
 
 -------------
+*Jhana:*
+
 
 #+begin_quote
 “When you’ve spent hours in a jhāna, you can call yourself a mystic....It is unforgettable. It overturns one’s conception of happiness. Even falling in love is not as enjoyable as this. It is unavoidable that one will inquire what is this bliss and where did it come from.”
