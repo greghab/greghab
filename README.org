@@ -13,7 +13,7 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 #+end_quote
 
 
-- Stützen: [ ] Maintain Jog.
+- Stützen: Maintain Jog.
 
 |----------+--------+-----------+-----------+-----+---------------+---------------+-------|
 | λλλλλλλλ | Wakeup | Gratitude | Escapades | Jog | Vipassana (2) | Pomodoro (8+) | Sleep |
