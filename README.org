@@ -66,9 +66,7 @@ Keep the vitriol coming." - Cameron Hanes, Endure
 #+end_quote
 
 #+begin_quote
-Something about how you don't need to be David Goggins to be enlightened. In a sense, he's killing his body, stressing himself, which is similar to what the Buddha did with the ascetics. But this is not needed. You can go directly there, and acquire right view. Meditation (I.E Vipassana, and 10 day retreats), restraint, and studying right view is a good step.
-
-- Frank Yang
+~ Something about how you don't need to be David Goggins to be enlightened. In a sense, he's killing his body, stressing himself, which is similar to what the Buddha did with the ascetics. But this is not needed. You can go directly there, and acquire right view. Meditation (I.E Vipassana, and 10 day retreats), restraint, and studying right view is a good step. - Frank Yang
 #+end_quote
 
 #+ATTR_ORG: :height 300
