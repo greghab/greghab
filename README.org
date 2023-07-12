@@ -27,6 +27,12 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 |----------+--------+-----------+-----------+-----+---------------+---------------+------+-------|
 
 
+- Stützen:
+  - [ ] Maintain Vipassana (2), and Jog (2).
+- Vergrößern:
+  - [ ] 4 pomodoros
+  - [ ] Asketisch
+
 |----------+-------+-----------+-----------+-----------+---------+------+---------------+---------------+-------|
 | 🥀🦜🪐🌴 |  Wake | Gratitude | Asketisch | Escapades | Jog (2) | Cold | Vipassana (2) | Pomodoro (8+) | Sleep |
 |----------+-------+-----------+-----------+-----------+---------+------+---------------+---------------+-------|
