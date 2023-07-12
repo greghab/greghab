@@ -13,6 +13,10 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 #+end_quote
 
 
+#+begin_quote
+Get addicted to the good.
+#+end_quote
+
 - Stützen: Maintain Jog.
 
 |----------+--------+-----------+-----------+-----+---------------+---------------+------+-------|
