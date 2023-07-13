@@ -31,6 +31,10 @@ All I know is, I've got something bubbling up inside of me, and I can't put a co
 “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” - Will Durant
 #+end_quote
 
+#+begin_quote
+We're not all going to be best. We're all not going to be great, relative to the zeitgeist. But we can atleast act like we're great, and give it a try. We can give it a fair one. Expand our mind, and reality, to what's possible. And back it up by our actions. Serious. Seriously.
+#+end_quote
+
 - Stützen: Maintain Jog.
 
 |----------+--------+-----------+-----------+-----+---------------+---------------+------+-------|
@@ -49,16 +53,16 @@ All I know is, I've got something bubbling up inside of me, and I can't put a co
 - Vergrößern:
   - [ ] Vier: Kies
   - [ ] Asketisch
-|----------+-------+-------------+-----------+----------+-----------------------+------+--------------------+-------------------+-------|
-| 🥀🦜🪐🌴 |  Weik | Dankbarkeit | Asketisch | Eskapade | Dahintrotten (2 🥀🦜) | Kalt | Vipassana (2 🥀🦜) | der Kies (8+ 🎱)  | Schlaf |
-|----------+-------+-------------+-----------+----------+-----------------------+------+--------------------+-------------------+-------|
-| 07-12-23 | 10:00 | 🌴          | 🌴        | 🌴       | 🥀                    |      |                    |                   |       |
-| 07-13-23 |       |             |           |          |                       |      |                    |                   |       |
-| 07-14-23 |       |             |           |          |                       |      |                    |                   |       |
-| 07-15-23 |       |             |           |          |                       |      |                    |                   |       |
-| 07-16-23 |       |             |           |          |                       |      |                    |                   |       |
-| 07-17-23 |       |             |           |          |                       |      |                    |                   |       |
-|----------+-------+-------------+-----------+----------+-----------------------+------+--------------------+-------------------+-------|
+|----------+-------+-------------+-----------+----------+-----------------------+------+--------------------+------------------+--------|
+| 🥀🦜🪐🌴 |  Weik | Dankbarkeit | Asketisch | Eskapade | Dahintrotten (2 🥀🦜) | Kalt | Vipassana (2 🥀🦜) | der Kies (8+ 🎱) | Schlaf |
+|----------+-------+-------------+-----------+----------+-----------------------+------+--------------------+------------------+--------|
+| 07-12-23 | 10:00 | 🌴          | 🌴        | 🌴       | 🥀🦜                  |      |                    |                  |        |
+| 07-13-23 |       |             |           |          |                       |      |                    |                  |        |
+| 07-14-23 |       |             |           |          |                       |      |                    |                  |        |
+| 07-15-23 |       |             |           |          |                       |      |                    |                  |        |
+| 07-16-23 |       |             |           |          |                       |      |                    |                  |        |
+| 07-17-23 |       |             |           |          |                       |      |                    |                  |        |
+|----------+-------+-------------+-----------+----------+-----------------------+------+--------------------+------------------+--------|
 
 #+begin_quote
 "What the catepillar calls the end of the world, the master calls the butterfly."
