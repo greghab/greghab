@@ -26,6 +26,8 @@ All I know is, I've got something bubbling up inside of me, and I can't put a co
 #+end_quote
 
 #+begin_quote
+“As it is not one swallow or a fine day that makes a spring, so it is not one day or a short time that makes a man blessed and happy.” - Aristotle
+
 “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” - Will Durant
 #+end_quote
 
