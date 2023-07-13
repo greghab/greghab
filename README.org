@@ -25,6 +25,10 @@ Yes, I'm aware this readme, with all the clutter, and activity, makes me look li
 All I know is, I've got something bubbling up inside of me, and I can't put a cork in it. I've got to let it out, otherwise it will kill me. I can't hold it in. I have to keep moving and grooving, bobbing and weaving. Maybe one day the energy and raw force will die down a bit, but not right now.
 #+end_quote
 
+#+begin_quote
+“We are what we repeatedly do. Excellence, then, is not an act, but a habit.” - Will Durant
+#+end_quote
+
 - Stützen: Maintain Jog.
 
 |----------+--------+-----------+-----------+-----+---------------+---------------+------+-------|
